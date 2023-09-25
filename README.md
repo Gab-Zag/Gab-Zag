@@ -6,10 +6,10 @@
   <a href="https://github.com/Gab-Zag">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab-Zag&hide_progress=comtrue&theme=onedark"/>
 </div>
-<a href="https://www.linkedin.com/in/gabriel-alves-pereira-0a3393291/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="https://github.com/Gab-Zag/C" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a href="https://github.com/Gab-Zag/Java" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/gabriel-alves-pereira-0a3393291/" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/gabriel-alves-pereira-0a3393291/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="https://github.com/Gab-Zag/Python" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://github.com/Gab-Zag/MySQL" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </div>
 
 <div> 
