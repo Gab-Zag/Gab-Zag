@@ -1,3 +1,4 @@
+# 👋 Hi there
 ### Eai! Eu sou o Gabriel mais pode me chamar de Gab
 
 - 🌱 Estudando Engenharia de Software na faculdade Inatel
