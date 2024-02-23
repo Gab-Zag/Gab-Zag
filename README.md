@@ -1,5 +1,7 @@
 # 👋 Hi there
 ### Eai! Eu sou o Gabriel mais pode me chamar de Gab
+I'm Gabriel Alves Pereira but you can call me Gab, a passionate software developer and technology enthusiast. I currently work as a Fellow at the School Relationship Center (NRC) at the National Telecommunications Institute - Inatel. </br>
+I had the opportunity to work on several interesting projects and explore different technologies.
 
 - 🌱 Estudando Engenharia de Software na faculdade Inatel
 - 📫 How to reach me: gab.alves.pereira30@gmail.com
