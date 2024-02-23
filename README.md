@@ -3,8 +3,9 @@
 I'm Gabriel Alves Pereira but you can call me Gab, a passionate software developer and technology enthusiast. I currently work as a Fellow at the School Relationship Center (NRC) at the National Telecommunications Institute - Inatel. </br>
 I had the opportunity to work on several interesting projects and explore different technologies.
 
-- 🌱 Estudando Engenharia de Software na faculdade Inatel
-- 📫 How to reach me: gab.alves.pereira30@gmail.com
+> “Do, or do not. There is no “try” — Yoda
+
+# 💻 Tech Stack
 <div align="center">
   <a href="https://github.com/Gab-Zag">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab-Zag&hide_progress=comtrue&theme=onedark"/>
