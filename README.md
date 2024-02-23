@@ -16,7 +16,7 @@ I had the opportunity to work on several interesting projects and explore differ
 <a href="https://github.com/Gab-Zag/MySQL" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://github.com/Gab-Zag/Flutter" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
 </div>
-
+# 🌐 Socials:
 <div> 
   <a href="https://www.instagram.com/gab_9s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gab.alves.pereira30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
