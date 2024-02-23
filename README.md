@@ -14,7 +14,7 @@ I had the opportunity to work on several interesting projects and explore differ
 <a href="https://github.com/Gab-Zag/Java" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="https://github.com/Gab-Zag/Python" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://github.com/Gab-Zag/MySQL" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="https://github.com/Gab-Zag/Flutter" target="_blank"><img src="https://img.shields.io/badge/Flutter-#02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
+<a href="https://github.com/Gab-Zag/Flutter" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
 </div>
 
 <div> 
