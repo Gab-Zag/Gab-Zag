@@ -21,7 +21,7 @@ I had the opportunity to work on several interesting projects and explore differ
 <a href="https://github.com/Gab-Zag/Flutter"_blank"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
 <a href="https://github.com/Gab-Zag/C target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://github.com/Gab-Zag/C target="_blank"> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"></a>
-<a href="https://github.com/Gab-Zag/C target="_blank"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
+<a href="https://github.com/Gab-Zag/LUA"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
     
 </div>
 
