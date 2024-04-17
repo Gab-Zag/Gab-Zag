@@ -24,6 +24,7 @@ I had the opportunity to work on several interesting projects and explore differ
 <a href="https://github.com/Gab-Zag/LUA"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
 <a href="https://github.com/Gab-Zag/Rust"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
 <a href="https://github.com/Gab-Zag/Go"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+<a href="https://github.com/Gab-Zag/C-/tree/main/C%23"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
     
 </div>
 
