@@ -29,6 +29,7 @@ I had the opportunity to work on several interesting projects and explore differ
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Spring](https://img.shields.io/badge/-SPRING-000000?style=for-the-badge&logo=spring&logoColor=%6DB33F)
 ![Postgresql](https://img.shields.io/badge/-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=%23FFFFFF)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Postman](https://img.shields.io/badge/-POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=%23FFFFFF)
 ![Gradle](https://img.shields.io/badge/-GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=%23FFFFFF)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
