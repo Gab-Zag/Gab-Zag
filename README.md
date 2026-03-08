@@ -36,6 +36,7 @@ I had the opportunity to work on several interesting projects and explore differ
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ArduinoIde](https://img.shields.io/badge/-ARDUINOIDE-%2300878F?style=for-the-badge&logo=arduino&logoColor=%23FFFFFF)
+![APACHE KAFKA](https://img.shields.io/badge/-SPRING-3670A0?style=for-the-badge&logo=apache-kafka&logoColor=%ffdd54)
 
 ## 🌐 Socials
 
