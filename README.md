@@ -42,6 +42,26 @@ I had the opportunity to work on several interesting projects and explore differ
 
 ## 🌐 Socials
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alvespereira-0a3393291/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-portfolio--five--rho--64.vercel.app-B74B4B?style=for-the-badge)](https://portfolio-five-rho-64.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alves-pereira-0a3393291/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gab.alves.pereira30@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535988584664)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535988584664)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gab_9s/)
+
+## 📊 GitHub Stats
+<div align="center">
+ 
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Gab-Zag&show_icons=true&theme=dark&title_color=b74b4b&icon_color=b74b4b&border_color=b74b4b&bg_color=0d0d0d&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab-Zag&layout=compact&theme=dark&title_color=b74b4b&border_color=b74b4b&bg_color=0d0d0d" />
+ 
+</div>
+<div align="center">
+ 
+![GitHub Streak](https://streak-stats.demolab.com?user=Gab-Zag&theme=dark&background=0d0d0d&border=b74b4b&ring=b74b4b&fire=b74b4b&currStreakLabel=b74b4b)
+ 
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gab-Zag&color=b74b4b&style=flat-square&label=Profile+Views" />
+  <br/><br/>
+  <sub>Desenvolvido por <strong>Gabriel Alves Pereira</strong> · 2026</sub>
+</div>
