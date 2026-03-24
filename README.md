@@ -1,4 +1,9 @@
 
+<div align="center">
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&duration=3000&pause=1000&color=B74B4B&center=true&vCenter=true&width=500&lines=%3CGab+%2F%3E;Backend+Engineer;Java+%7C+Spring+Boot+%7C+Docker" alt="Typing SVG" />
+</h1>
 <h1 align="center">Hi 👋, I'm Gab</h1>
 
 My name is Gabriel Alves Pereira, but you can call me Gab. I'm a passionate Software Engineering student and technology enthusiast.
