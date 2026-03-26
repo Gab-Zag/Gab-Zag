@@ -50,8 +50,7 @@ I had the opportunity to work on several interesting projects and explore differ
 
 ## 📊 GitHub Stats
 <div align="center">
- 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Gab-Zag&show_icons=true&theme=dark&title_color=b74b4b&icon_color=b74b4b&border_color=b74b4b&bg_color=0d0d0d&hide_border=false" />
+  
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab-Zag&layout=compact&theme=dark&title_color=b74b4b&border_color=b74b4b&bg_color=0d0d0d" />
  
 </div>
