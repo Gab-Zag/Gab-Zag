@@ -47,20 +47,6 @@ I had the opportunity to work on several interesting projects and explore differ
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gab.alves.pereira30@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535988584664)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gab_9s/)
-
-## 📊 GitHub Stats
 <div align="center">
-  
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab-Zag&layout=compact&theme=dark&title_color=b74b4b&border_color=b74b4b&bg_color=0d0d0d" />
- 
-</div>
-<div align="center">
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=Gab-Zag&theme=dark&background=0d0d0d&border=b74b4b&ring=b74b4b&fire=b74b4b&currStreakLabel=b74b4b)
- 
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gab-Zag&color=b74b4b&style=flat-square&label=Profile+Views" />
-  <br/><br/>
   <sub>Desenvolvido por <strong>Gabriel Alves Pereira</strong> · 2026</sub>
 </div>
